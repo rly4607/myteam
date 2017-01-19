@@ -8,11 +8,11 @@
 }
 
 .table {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .btn-default {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -22,28 +22,22 @@
 }
 
 h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 40px;
   background-color: blue;
+  vertical-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 4px;
 }
 
 h2 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 30px;
   background-color: blue;
   color: white;
 }
 
-#USA {
-  color: white;
-  background-color: blue;
-  text-align: center;
-}
-
-#T2016 {
-  color: blue;
-  text-align: left;
-}
 
 #toplogo {
   height: 200px;
