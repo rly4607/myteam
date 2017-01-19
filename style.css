@@ -1,0 +1,38 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.TEAM {
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  background-color: blue;
+}
+
+h2 {
+  font-size: 30px;
+  background-color: blue;
+  color: white;
+}
+
+#USA {
+  color: white;
+  background-color: blue;
+  text-align: center;
+}
+
+#T2016 {
+  color: blue;
+  text-align: left;
+}
+
+
+
+#toplogo {
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
